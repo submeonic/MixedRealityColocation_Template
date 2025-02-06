@@ -638,7 +638,6 @@ GameObject:
   - component: {fileID: 384766414}
   - component: {fileID: 384766413}
   - component: {fileID: 384766412}
-  - component: {fileID: 384766410}
   - component: {fileID: 384766415}
   m_Layer: 0
   m_Name: '[NetworkSessionManager]'
@@ -647,18 +646,6 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!114 &384766410
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 384766407}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44c17857ba11e3841baf61f1ac38f157, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!114 &384766412
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1848,6 +1835,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1514565429}
   - component: {fileID: 1514565428}
+  - component: {fileID: 1514565430}
   - component: {fileID: 1514565427}
   m_Layer: 0
   m_Name: '[ColocationManager]'
@@ -1888,7 +1876,7 @@ MonoBehaviour:
   syncDirection: 0
   syncMode: 0
   syncInterval: 0
-  alignmentManager: {fileID: 384766410}
+  alignmentManager: {fileID: 1514565430}
   lanDiscovery: {fileID: 384766412}
   networkManager: {fileID: 384766413}
 --- !u!4 &1514565429
@@ -1906,6 +1894,18 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1514565430
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1514565426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44c17857ba11e3841baf61f1ac38f157, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1546929751
 GameObject:
   m_ObjectHideFlags: 0
