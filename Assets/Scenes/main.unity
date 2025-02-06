@@ -204,7 +204,7 @@ MonoBehaviour:
   _editor: {fileID: 164238542}
   _colorShaderPropertyName: _Color
   _normalColorState:
-    Color: {r: 1, g: 1, b: 1, a: 1}
+    Color: {r: 0, g: 1, b: 0.048665762, a: 1}
     ColorCurve:
       serializedVersion: 2
       m_Curve:
@@ -326,7 +326,7 @@ MonoBehaviour:
   _editor: {fileID: 164238542}
   _width: 0.1
   _height: 0.1
-  _color: {r: 0.2999999, g: 1, b: 0.33333862, a: 1}
+  _color: {r: 1, g: 1, b: 1, a: 1}
   _borderColor: {r: 0, g: 0, b: 0, a: 1}
   _radiusTopLeft: 0
   _radiusTopRight: 0
@@ -1018,6 +1018,22 @@ PrefabInstance:
     - target: {fileID: 3401484087450650434, guid: f8309d2338fb0ee4ab1aa7b4bf9cf95d, type: 3}
       propertyPath: instanceId
       value: 2f1a2f6a-fb19-47d6-9738-4891f62a628a
+      objectReference: {fileID: 0}
+    - target: {fileID: 4547578143249045582, guid: f8309d2338fb0ee4ab1aa7b4bf9cf95d, type: 3}
+      propertyPath: LateLatching
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6270353141328833618, guid: f8309d2338fb0ee4ab1aa7b4bf9cf95d, type: 3}
+      propertyPath: _removeHands
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6270353141328833618, guid: f8309d2338fb0ee4ab1aa7b4bf9cf95d, type: 3}
+      propertyPath: _occlusionShadersMode
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 6270353141328833618, guid: f8309d2338fb0ee4ab1aa7b4bf9cf95d, type: 3}
+      propertyPath: <MaskMeshFilters>k__BackingField.Array.size
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7153219451874361859, guid: f8309d2338fb0ee4ab1aa7b4bf9cf95d, type: 3}
       propertyPath: m_LocalPosition.x
@@ -2139,7 +2155,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 15b1d5ff3d274694e8d0c6cb466a4ae6, type: 2}
+  - {fileID: 2100000, guid: 84afe3d972f93a54da8c6ad1e19b46a7, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -2196,7 +2212,7 @@ Transform:
   m_GameObject: {fileID: 1556351971}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.523}
   m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2482,7 +2498,7 @@ MonoBehaviour:
   _editor: {fileID: 1641487505}
   _colorShaderPropertyName: _Color
   _normalColorState:
-    Color: {r: 1, g: 1, b: 1, a: 1}
+    Color: {r: 0, g: 0.7498069, b: 1, a: 1}
     ColorCurve:
       serializedVersion: 2
       m_Curve:
@@ -2604,7 +2620,7 @@ MonoBehaviour:
   _editor: {fileID: 1641487505}
   _width: 0.1
   _height: 0.1
-  _color: {r: 0.4660377, g: 0.5294173, b: 1, a: 1}
+  _color: {r: 1, g: 1, b: 1, a: 1}
   _borderColor: {r: 0, g: 0, b: 0, a: 1}
   _radiusTopLeft: 0
   _radiusTopRight: 0
@@ -3418,7 +3434,7 @@ MonoBehaviour:
   _editor: {fileID: 1916409329}
   _colorShaderPropertyName: _Color
   _normalColorState:
-    Color: {r: 1, g: 1, b: 1, a: 1}
+    Color: {r: 1, g: 0.20015614, b: 0, a: 1}
     ColorCurve:
       serializedVersion: 2
       m_Curve:
@@ -3540,7 +3556,7 @@ MonoBehaviour:
   _editor: {fileID: 1916409329}
   _width: 0.1
   _height: 0.1
-  _color: {r: 1, g: 0.48113203, b: 0.48113203, a: 1}
+  _color: {r: 1, g: 1, b: 1, a: 1}
   _borderColor: {r: 0, g: 0, b: 0, a: 1}
   _radiusTopLeft: 0
   _radiusTopRight: 0
