@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 2537119830
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 424b8a953988f5c0e7449ee2344c2e5b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bb8521372c98e74594d3b7eb1b0a7a88
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 553067905b2c76c69a60b794c78bedf6
+HashAppended: 0
+ClassTypes:
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.core/Shaders/MetaLit.shader
+- Assets/Plugins/QFSW/Quantum Console/Source/Shaders/Blur.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+- Packages/com.meta.xr.sdk.interaction/Runtime/Shaders/RoundedBoxUnlit.shader
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/HandTracking/Shaders/OculusSampleAlphaHandOutline.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/PassthroughWindow/Shaders/SelectivePassthrough.shader
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/RoomModel/Shaders/TransparentTexture.shader
+- Packages/com.unity.render-pipelines.universal/Shaders/Lit.shader
+Dependencies: []

@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 1407969796
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c7e97e3b8ef5907632806bb2c83fdba8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 39749984d1498f12bc53e81262569ff0
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Graphics/Shaders/CelRamp/CelRamp4.psd
+- Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Input Field Icon.psd
+- Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Font Asset Icon.psd
+- Packages/com.unity.ugui/Editor Resources/Gizmos/TMP - Text Component Icon.psd
+Dependencies: []

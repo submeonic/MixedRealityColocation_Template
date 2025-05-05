@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 3327395904
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8bb73e245f08b41a47c3ec724c595ed0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 2e5f610fb21f7673172f0ee8b461bb72
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Graphics/Shaders/CelOccluded.shadergraph
+- Packages/com.unity.render-pipelines.universal/Shaders/AutodeskInteractive/AutodeskInteractive.shadergraph
+- Assets/Graphics/Shaders/Highlight.shadergraph
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shadersubgraph0

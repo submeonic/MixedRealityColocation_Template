@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 168144374
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1621a505431cfe6131320a5751fe9824
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 31d6cfe0d16ae931b73c59d7e0c089c0
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f1c8186edf98350ecd530af9ec566131
+HashAppended: 0
+ClassTypes: []
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Packages/com.meta.xr.sdk.core/Shaders/EnvironmentDepth/URP/Shadergraph/OcclusionSubGraph.shadersubgraph
+- Assets/Graphics/Shaders/SubGraphs/CelShade.shadersubgraph
+- Assets/Graphics/Shaders/DependancyGraphs/CalculateMainLight.shadersubgraph
+- Assets/Graphics/Shaders/DependancyGraphs/AdjustSmoothness.shadersubgraph
+- Assets/Graphics/Shaders/DependancyGraphs/CalculateLights.shadersubgraph
+- Assets/Graphics/Shaders/DependancyGraphs/AddAdditionalLights.shadersubgraph
+- Assets/Graphics/Shaders/DependancyGraphs/CalculateLightingRamp.shadersubgraph
+Dependencies: []

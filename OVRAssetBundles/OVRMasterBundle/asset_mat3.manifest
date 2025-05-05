@@ -1,0 +1,26 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 1042995748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 94a5c93a292b3f54ab75bc57f4a64305
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f90109cb32d031245c32bd79831d2e85
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Ash Assets/Arcade Vehicle Physics/Materials/ParticleSmokeWhite.mat
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png1

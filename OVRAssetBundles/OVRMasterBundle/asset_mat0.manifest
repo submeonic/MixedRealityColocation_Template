@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 1613418471
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db58c69e70e36bbc4b8434ce4917f212
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 216ae60e70b446a9d8d3980a0218a617
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Materials/Natures.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Fruits  Shop.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Truck_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Stadium.mat
+- Assets/Plugins/QFSW/Quantum Console/Source/Materials/Blur Panel.mat
+- Packages/com.meta.xr.sdk.interaction.ovr/Editor/Blocks/RealHands/Materials/HandMaterial.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building Sky_big_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Gas Station.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Bus_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Music Store.mat
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/HandTracking/Materials/SystemGestureHandMaterial.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building Sky_small_color03.mat
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/OculusTouchForRift_Material.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Books Shop.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Props_BillBoard_small.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_04_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Pick up Truck_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Shoes Shop.mat
+- Assets/Materials/Default/Metal.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Props_Props_01.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/batteryIndicator_mat.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_01_color01.mat
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/HandTracking/Materials/SkeletonBoneMaterial.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_03_color01.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Ambulance.mat
+- Assets/Ash Assets/Arcade Vehicle Physics/Materials/SkidMark.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Super Market.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_03_color03.mat
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0

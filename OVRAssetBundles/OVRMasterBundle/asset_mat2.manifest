@@ -1,0 +1,60 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 4236777409
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 41f7c1bde86a3b8d19b489708b54c60a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 03eaed7fee5a11f01bad90727d8baadf
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Bar.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_04_color03.mat
+- Assets/Game Assets/Art Assets/Models/SteeringYoke/Materials/Metal.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Restaurant.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_SUV_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Pick up Truck_color03.mat
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/HandTracking/Materials/SystemGestureSkeletonBoneMaterial.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Pick up Truck_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Fast Food.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProLeft_Material.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_02_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_04_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Chicken Shop.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building Sky_big_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building Sky_small_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_01_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Auto Service.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Clothing.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Taxi.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Bus_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_SUV_color02.mat
+- Assets/Toon Vehicles Free/Materials/Gradient/Cars_Green.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_03_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Container_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Drug Store.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Car_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Bus_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Residential_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Container_color03.mat
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0

@@ -1,0 +1,75 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 2119883536
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 51b2209a25068b8834bf356818c511db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d2c39ca734f68b3e568c3d30a78b1c2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: e9a75a979d7a0af41b3b0e0491bba0ae
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Traffic Signal_big.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Traffic Control Barrier Fence.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Chicken Shop.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Roof_prop.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Lane_02.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Truck.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Pick up Truck.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Windmill.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Dustbin.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Lane_01.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road T_Intersection_01.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_BillBoard_small.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_House_02_color01.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OpenXRLeftHand.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Shoes Shop.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Bus Stop.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Clothing.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building Sky_big_color01.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Right.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Traffic Signal_small.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Ambulance.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Concrete Tile.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Bakery.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Hydrant.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_House_03_color01.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/Materials/pasted_touchPBS_MAT.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Pot Bush_small.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Lane Bus Stop.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Roof Antenna.fbx
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_tga0

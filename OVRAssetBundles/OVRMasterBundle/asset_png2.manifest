@@ -1,0 +1,48 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 3635713393
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cb45df2b2ccaa21fb4c417d5c8829398
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9f349c36d7a6532f767333f9299b3e74
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5e83708321b03f7ede40932b7e630c57
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Fruits  Shop.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Bus_3.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_02_color02.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Super Market.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Container_2.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Residential_color01.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_SUV_3.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Fast Food.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_03_color02.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Auto Service.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Books Shop.png
+- Assets/Plugins/QFSW/Quantum Console/Source/Textures/DragArrow.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Pick up Truck_3.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building Sky_small_color01.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Natures.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Container_3.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Truck_1.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_r_lo_BaseColor.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Bar.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_04_color01.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Bakery.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_01_color03.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building Sky_big_color03.png
+- Packages/com.unity.cinemachine/Editor/EditorResources/Icons/Light/CmComponent@256.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Coffee Shop.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Props_TrafficProps.png
+Dependencies: []

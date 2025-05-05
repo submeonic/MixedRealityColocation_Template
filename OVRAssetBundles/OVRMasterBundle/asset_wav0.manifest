@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 3674547117
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3c7b8e4d3c11b6db77f1dd0715b073d8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: cbd2649d909ff470331d91e1178a2b77
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game Assets/Sounds/Music/TrackA/3_CustomL.wav
+- Assets/Game Assets/Sounds/Music/TrackA/6_Melody2.wav
+- Assets/Game Assets/Sounds/Ambient/SuburbAmbient.wav
+- Assets/Game Assets/Sounds/Music/TrackA/2_Bass.wav
+- Assets/Game Assets/Sounds/Ambient/CarsAmbient.wav
+- Assets/Game Assets/Sounds/SFX/Ding3.wav
+- Assets/Game Assets/Sounds/SFX/Ding1.wav
+- Assets/Game Assets/Sounds/SFX/Ding2.wav
+- Assets/Game Assets/Sounds/Music/TrackA/4_CustomR.wav
+- Assets/Ash Assets/Arcade Vehicle Physics/Audios/engine-loop-1.wav
+- Assets/Game Assets/Sounds/SFX/Ding4.wav
+- Assets/Game Assets/Sounds/Music/TrackA/1_SubBass.wav
+- Assets/Game Assets/Sounds/Music/TrackA/11_CombinedDrumLoop.wav
+- Assets/Game Assets/Sounds/Music/TrackA/10_EntryFill.wav
+- Assets/Game Assets/Sounds/Music/TrackA/5_Melody1.wav
+Dependencies: []

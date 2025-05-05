@@ -1,0 +1,80 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 3552341045
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 11a3b37f04d766dd6f369f0d3bf02b2f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d2c39ca734f68b3e568c3d30a78b1c2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: a4c5a8a46c5f59ba84cd6470e9d6f077
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Drug Store.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_House Floor.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Split Line.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Coffee shop chair.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Stadium.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Bus.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Fence.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OpenXRRightHand.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/MetaQuestTouchPro_Right.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/OculusTouchForQuestAndRiftS_Left.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Bar.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Fast Food.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Rock_Big.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Music Store.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Tile.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Corner_01.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Street Light.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Intersection_01.fbx
+- Assets/Toon Vehicles Free/Models/City Cars/Sedan.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Cube Tree.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_House_01_color01.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Books Shop.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/left_touch_controller_model_skel.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Super Market.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Auto Service.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPro/Materials/MetaQuestProRight_Material.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Right.fbx
+- Assets/Game Assets/Art Assets/Models/SteeringYoke/SteeringYoke.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Fir Tree.fbx
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_mat2
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_tga0

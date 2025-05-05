@@ -1,0 +1,76 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 1597889418
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 386a3b727af8d47177d554298268dba0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 3d2c39ca734f68b3e568c3d30a78b1c2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: da2041a64247be0496aa2b81ba98445e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Residential_color01.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Container.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Gift Shop.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_L.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/MetaQuestTouchPlus_Left.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_SUV.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Pizza.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Taxi.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/OculusTouchForQuest2_Left.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Car.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Factory.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_BillBoard_large.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Gas Station.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusLeft_Material.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Lane Half.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Bar.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Big Tree.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Tile Small.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Fruits  Shop.fbx
+- Assets/Toon Vehicles Free/Models/Car Wheels/BaseS.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_House_04_color01.fbx
+- Assets/Game Assets/Art Assets/Models/BoiseStateB/BoiseStateB.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Road Lane_04.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building_Restaurant.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Natures_Grass Tile Small.fbx
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForRift/right_touch_controller_model_skel.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Building Sky_small_color01.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Vehicle_Police Car.fbx
+- Packages/com.meta.xr.sdk.interaction/Runtime/Meshes/OVRHand_R.fbx
+- Assets/SimplePoly City - Low Poly Assets/Models/Props_Bench_1.fbx
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_mat0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_mat1
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shader0

@@ -1,0 +1,50 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 2167525592
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff01730945fbd714649640b3b47ae4f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5527383dc91eba37123fc67ad6efaa19
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: f2388d1f61c709dcd7168450bdb4b959
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_03_color01.png
+- Assets/Toon Vehicles Free/Textures/Gradient/Cars_Gray.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPlus/MetaQuestTouchPlus_Metallic.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Car_2.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Props_BillBoard_large.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Container_1.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_02_color03.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Gas Station.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Restaurant.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_SUV_1.png
+- Assets/Ash Assets/Arcade Vehicle Physics/Textures/ParticleCloudWhite.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_01_color02.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Gift Shop.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Car_3.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_l_lo_Normal.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Props_RoofProps.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Taxi.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Truck_2.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building Sky_small_color02.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Factory.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/controller_l_lo_BaseColor.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_House_01_color01.png
+- Packages/com.meta.xr.sdk.core/Textures/MetaQuestTouchPro/batteryIndicatorTexture32.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Ambulance.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Drug Store.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Shoes Shop.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_SUV_2.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Residential_color03.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Building_Music Store.png
+- Assets/SimplePoly City - Low Poly Assets/Textures/Vehicle_Police Car.png
+Dependencies: []

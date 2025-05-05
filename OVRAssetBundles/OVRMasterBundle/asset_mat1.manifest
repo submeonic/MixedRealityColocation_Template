@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 3542037135
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 08cd75b9e3735c5f10ceadad07da56e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ed81b296f435bff7379a355cd1d66d9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 0315de64a64388971c9d9c16928f72f0
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Pizza.mat
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuestAndRiftS/Materials/OculusTouchForQuestAndRiftS_Material.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Police Car.mat
+- Assets/Game Assets/Art Assets/Models/SteeringYoke/Materials/Black Rubber.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_02_color02.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusMATphong_left.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Container_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Props_RoofProps.mat
+- Assets/Materials/Default/Orange.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building Sky_small_color02.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Bakery.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_01_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Truck_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Factory.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Residential_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Gift Shop.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_House_02_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Road.mat
+- Packages/com.meta.xr.sdk.interaction/Runtime/Materials/RoundedBoxUnlit.mat
+- Packages/com.meta.xr.sdk.core/Meshes/OculusTouchForQuest2/Materials/OculusTouchForQuest2_MAT.mat
+- Assets/Toon Vehicles Free/Materials/Gradient/Cars_Gray.mat
+- Packages/com.meta.xr.sdk.core/Meshes/MetaQuestTouchPlus/Materials/MetaQuestTouchPlusMATphong_right.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Props_BillBoard_large.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building Sky_big_color03.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_Truck_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Building_Coffee Shop.mat
+- Packages/com.unity.render-pipelines.universal/Runtime/Materials/Lit.mat
+- Packages/com.meta.xr.sdk.core/Editor/BuildingBlocks/BlockData/HandTracking/Materials/DefaultHandMaterial.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Vehicle_SUV_color01.mat
+- Assets/SimplePoly City - Low Poly Assets/Materials/Props_TrafficProps.mat
+Dependencies:
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png1
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_png2
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_psd0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shader0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_shadergraph0
+- C:/Users/chase/Documents/GitHub/GIMM_City/OVRAssetBundles/OVRMasterBundle/asset_tga0

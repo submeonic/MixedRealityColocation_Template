@@ -32,8 +32,8 @@ MonoBehaviour:
   enableNSCConfig: 1
   securityXmlPath: 
   skipUnneededShaders: 0
-  enableIL2CPPLTO: 0
-  removeGradleManifest: 1
+  enableIL2CPPLTO: 1
+  removeGradleManifest: 0
   focusAware: 1
   requiresSystemKeyboard: 0
   experimentalFeaturesEnabled: 0

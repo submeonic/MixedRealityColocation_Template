@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 2708974820
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 66cc50976d310569920d065bbc81f587
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 12aeb337730057ca96db101e9fc507b5
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 21d05fb23a314e3c105944486307bd58
+HashAppended: 0
+ClassTypes:
+- Class: 134
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Ash Assets/Arcade Vehicle Physics/Materials/Friction.physicMaterial
+Dependencies: []

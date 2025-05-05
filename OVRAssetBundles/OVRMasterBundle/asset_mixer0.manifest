@@ -1,0 +1,25 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.0.33f1
+CRC: 2783394695
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8f1f196e11e277e4e9c0600a1df04d2d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 137c15a16236da89168c8215a1e23a39
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 6cc2996ff6aadfb72687c52fa5140c26
+HashAppended: 0
+ClassTypes:
+- Class: 241
+  Script: {instanceID: 0}
+- Class: 243
+  Script: {instanceID: 0}
+- Class: 245
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Game Assets/Sounds/AudioMixer.mixer
+Dependencies: []
